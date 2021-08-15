@@ -1,4 +1,4 @@
-Simple script taking user inputs for properties file (creates file application.properties):
+Simple script taking user inputs (creates file application.properties):
 wise-input.sh
 
 Script for cron job to monitor changes of the properties file (if changed creates file CHANGES.application.properties.[timestamp] with differences):
