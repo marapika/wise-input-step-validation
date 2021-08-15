@@ -6,6 +6,7 @@ wise-cron.sh
 
 To add script to cron (runs every minute), follow commands:
 > crontab -e
+
 In the file place command:
 > */1 * * * * /PATH/wise-cron.sh
 
