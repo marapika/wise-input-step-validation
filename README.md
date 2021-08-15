@@ -4,9 +4,9 @@ wise-input.sh
 Script for cron job to monitor changes of the properties file (if changed creates file CHANGES_application.properties.[timestamp] with differences):
 wise-cron.sh
 
-To add script to cron (runs every minute), follow commands:
+To add script to cron:
 > crontab -e
 
-In the file place command:
+In the file place command (cron job will run every minute):
 > */1 * * * * /PATH/wise-cron.sh
 
