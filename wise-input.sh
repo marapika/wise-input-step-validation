@@ -1,5 +1,5 @@
 #!/bin/bash
-#This script collect information from the user.
+#This script collects information from the user.
 
 #Prompts user to enter api-key
 read -p 'Please enter api-key: ' apikey
