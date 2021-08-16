@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#variable path to the wise-input.sh script
+#variable path to the wise-input.sh script directory
 folder=/home/marcin/wise-input-step-validation
 #timestamp of the script execution
 timestamp=$(date +"%Y%m%d_%H%M%S")
