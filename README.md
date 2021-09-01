@@ -1,4 +1,4 @@
-This project is an exercise in scripting, validating input fields with regex and preparing script comparing changes in the file for the use in the cron.
+This project is an exercise in scripting, validating input fields with regex and preparing script which compares changes in the file for the use in the cron.
 
 Script taking user inputs (creates file application.properties with user inputs):
 wise-input.sh
